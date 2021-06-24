@@ -1,6 +1,6 @@
 FROM mysql:5.6 as mysql-parent
 
-LABEL maintainer="yangjinbo <yangjinbo@yoyohr.com>"
+LABEL maintainer="nekoimi <nekoimime@gmail.com>"
 
 ARG timezone
 
